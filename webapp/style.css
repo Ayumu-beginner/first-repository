@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+	text-align: center;
+	background-color: lightgreen;
+	padding-top: 50px;
+	width: 90%;
+	margin:0 auto;
+}
+
+#clock{
+	font-size: 80px;
+}
+
+.btn{
+	display: inline-block;
+}
+
+
+table {
+            width: 30%;
+            border-collapse: collapse;
+            background-color: aliceblue;
+            margin-left:500px;
+        }
+
+.errorMsg{
+    color: red;
+}
+
+.id{
+	margin-left: 29px;
+}
